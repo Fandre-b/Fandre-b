@@ -3,6 +3,34 @@ I am a student at 42Lisbon school also taking a master’s degree in Nanotechnol
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
 I strive to learn and this is my journey.
 
+
+<h3 align="center">✅ Skills I currently have</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  
+
+</p>
+
+<h3 align="center">👨🏻‍🏫 Skills I am currently learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />
+</p>
+
+
 ## So far my Progress at 42 School
 <div align="center">
 
