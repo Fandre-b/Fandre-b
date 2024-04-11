@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 I am a student at 42Lisbon school also taking a master’s degree in Nanotechnology.
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
 I strive to learn and this is my journey.
