@@ -3,17 +3,25 @@ I am a student at 42Lisbon school also taking a master’s degree in Nanotechnol
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
 I strife to learn and this is my journey.
 
-
+<div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fandre-b?1337Badge=off&UM6P=off" alt="fandre-b's 42 stats" /></a>
-<iframe src="https://giphy.com/embed/RgzryV9nRCMHPVVXPV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV">via GIPHY</a></p>
+</div>
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fandre-b?1337Badge=off&UM6P=off" alt="fandre-b's 42 stats" /></a>
-    </div>
-    <div>
-        <iframe src="https://giphy.com/embed/RgzryV9nRCMHPVVXPV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-abstract-pi-slices-RgzryV9nRCMHPVVXPV">via GIPHY</a></p>
-    </div>
+<div align="center">
+
+###Finished Projects: 
+
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png)</a>
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png)</a>
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linem.png)</a>
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/born2berootm.png)</a>
+
+###Ongoing Projects: 
+
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/push_swapn.png)</a>
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/fract-oln.png)</a>
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/pipexn.png)</a>
+
 </div>
 
 ## 42cursus Progress
