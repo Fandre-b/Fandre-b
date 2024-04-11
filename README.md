@@ -2,7 +2,8 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fandre-b?1337Badge=off&UM6P=off" alt="fandre-b's 42 stats" /></a>
 
 ## 42cursus Progress
-| No  | Project                                     | score   |   
+| No  | Project                                     | score   |
+| :-: | :------------------------------------------ | :----: |
 |     | Libft                                       | 125/100 |
 
 <!--
