@@ -1,15 +1,18 @@
 ## Hello there 👋
 - ### A small intruduction
-<h3 align="left">
+<h3 align="justify">
   I am a student at 42Lisbon school also taking a master’s degree in Nanotechnology.
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
+</h3>
 
-<p align="right">
-I strive to learn and this is my journey.
-</p>
+<h6 align="right">
+- I strive to learn and this is my journey.
+</h6>
 
+<h6>
+  
 ---
----
+</h6>
 
 <h3 align="center">✅ Languages I'm comfortable with</h3>
 <p align="center">
