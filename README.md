@@ -1,20 +1,29 @@
 ## Hello there 👋
-I am a student at 42Lisbon school also taking a master’s degree in Nanotechnology.
+---
+
+- #### A small intruduction
+<h4 align="left">
+  I am a student at 42Lisbon school also taking a master’s degree in Nanotechnology.
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
+
+<p align="right">
 I strive to learn and this is my journey.
+</p>
 
+---
+---
 
-<h3 align="center">✅ Skills I currently have</h3>
+<h3 align="center">✅ Languages I'm comfortable with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+<p align="center">
   <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
   <img src="" />
   <img src="" />
   <img src="" />
