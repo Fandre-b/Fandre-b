@@ -32,7 +32,7 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   <img src="" />
   <img src="" />
   <img src="" />
-  ✅❎✔️☑️➥☑📨📖❌↪️
+  ✅❎✔✔️☑️➥☑📨📖❌↪️
   --->
   
 
