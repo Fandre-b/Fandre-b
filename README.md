@@ -19,21 +19,26 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+<h3 align="center">✅ Tools i use</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+
+<!--
   <img src="" />
   <img src="" />
   <img src="" />
   <img src="" />
+  ✅❎✔️☑️➥☑📨📖❌↪️
+  --->
   
 
 </p>
 
-<h3 align="center">👨🏻‍🏫 Skills I am currently learning</h3>
+<h3 align="center">✅ Laguages im currently learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
@@ -59,14 +64,14 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
 
 
 
-| No  | Project                                     | Score   | Description |
-| :-: | :------------------------------------------: | :----:  | :-------------------|
-|     | Libft                                       | 125/100 | All Purposes library in C |
-|     | Ft_printf                                   | 100/100 | My own implementation of the printf function |
-|     | Get_next_line                               | 125/100 | Retrieving lines from multiple file descriptors |
-|     | Born2beroot                                 | 125/100 | System administration and security in debian based VM |
-|     | Push_swap                                   | NA/100 | Sorting algorithm in stacks |
-|     | Fract'ol                                    | NA/100 | Pixel renderization of Fractals in C with mlx lib |
+| No  | Project                                     | Score   | Status | Description |
+| :-: | :------------------------------------------: | :----:  | :----: | :-------------------|
+|     | Libft                                       | 125/100 | ✅ | All Purposes library in C |
+|     | Ft_printf                                   | 100/100 | ✅ | My own implementation of the printf function |
+|     | Get_next_line                               | 125/100 | ✅ | Retrieving lines from multiple file descriptors |
+|     | Born2beroot                                 | 125/100 | ✅ | System administration and security in debian based VM |
+|     | Push_swap                                   | NA/100 | ✔ | Sorting algorithm in stacks |
+|     | Fract'ol                                    | NA/100 | 📖 | Pixel renderization of Fractals in C with mlx lib |
 
 </div>
 
