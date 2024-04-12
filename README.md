@@ -5,8 +5,8 @@
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
 </h3>
 
-<h6 align="right">
-- I strive to learn and this is my journey.
+<h5 align="right">
+- I strive to learn and this has been my journey.
 </h6>
 
 <h6>
