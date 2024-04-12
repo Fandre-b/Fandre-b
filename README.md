@@ -7,18 +7,14 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
 
 <h5 align="right">
 - I strive to learn and this has been my journey.
-</h6>
-
-<h6>
-  
----
-</h6>
+</h5>
 
 <h3 align="center">✅ Languages I'm comfortable with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+  
 <h3 align="center">✅ Tools i use</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
@@ -26,7 +22,18 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+</p>
 
+<h3 align="center">✅ Laguages im currently learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />
+</p>
+
+
+## So far my Progress at 42 School
+<div align="center">
 
 <h6>
   
@@ -41,19 +48,6 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   ✅❎✔✔️☑️➥☑📨📖❌↪️
   --->
   
-
-</p>
-
-<h3 align="center">✅ Laguages im currently learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />
-</p>
-
-
-## So far my Progress at 42 School
-<div align="center">
 
 ### Finished Projects: 
 
