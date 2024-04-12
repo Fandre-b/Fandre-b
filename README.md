@@ -31,14 +31,13 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   <img src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />
 </p>
 
-
-## So far my Progress at 42 School
-<div align="center">
-
 <h6>
   
 ---
 </h6>
+
+## So far my Progress at 42 School
+<div align="center">
 
 <!--
   <img src="" />
