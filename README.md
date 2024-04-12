@@ -20,7 +20,7 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
   
-<h3 align="center"> • Tools i use</h3>
+<h3 align="center"> • Tools I use</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
