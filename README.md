@@ -27,6 +27,12 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
   <img src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
 
+
+<h6>
+  
+---
+</h6>
+
 <!--
   <img src="" />
   <img src="" />
