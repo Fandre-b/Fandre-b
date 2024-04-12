@@ -1,5 +1,5 @@
 ## Hello there 👋
-- ### A small intruduction
+### A small intruduction
 <h3 align="justify">
   I am a student at 42Lisbon school also taking a master’s degree in Nanotechnology.
 Here you might see some code in C and C++ from Common core projects at 42, as well as some experiments I did in python.
