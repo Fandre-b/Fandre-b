@@ -9,6 +9,11 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
 - I strive to learn and this has been my journey.
 </h5>
 
+<h6>
+  
+---
+</h6>
+
 <h3 align="center">✅ Languages I'm comfortable with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
