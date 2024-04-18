@@ -59,10 +59,10 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
 <a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png)</a>
 <a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linem.png)</a>
 <a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/born2berootm.png)</a>
+<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/push_swapm.png)</a>
 
 ### Ongoing Projects: 
 
-<a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/push_swapn.png)</a>
 <a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/fract-oln.png)</a>
 <a href="https://github.com/Fandre-b/Fandre-b">![42 Badge](https://github.com/ayogun/42-project-badges/raw/main/badges/pipexn.png)</a>
 
