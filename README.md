@@ -76,7 +76,7 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
 |     | Born2beroot                                 | 125/100 | ✅ | System administration and security in debian based VM |
 |     | Push_swap                                   | NA/100 | ↪️ | Sorting algorithm in stacks |
 |     | Fract'ol                                    | NA/100 | 📖 | Pixel renderization of Fractals in C with mlx lib |
-|     | PipeX                                       | NA/100 | 📖 | Simulation of shell's Pipelines and redirection with file descriptors manipulation |
+|     | PipeX                                       | NA/100 | 📖 | Simulation of Shell Pipelines (|) and Redirection (>) with file descriptors manipulation |
 
 
 </div>
