@@ -74,7 +74,7 @@ Here you might see some code in C and C++ from Common core projects at 42, as we
 |     | Ft_printf                                   | 100/100 | ✅ | My own implementation of the printf function |
 |     | Get_next_line                               | 125/100 | ✅ | Retrieving lines from multiple file descriptors |
 |     | Born2beroot                                 | 125/100 | ✅ | System administration and security in debian based VM |
-|     | Push_swap                                   | NA/100 | ↪️ | Sorting algorithm in stacks |
+|     | Push_swap                                   | 125/100 | ✅ | Sorting algorithm in stacks |
 |     | Fract'ol                                    | NA/100 | 📖 | Pixel renderization of Fractals in C with mlx lib |
 |     | PipeX                                       | NA/100 | 📖 | Simulation of Shell Pipelines (\|) and Redirection (>) with file descriptors manipulation |
 
